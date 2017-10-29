@@ -21,3 +21,6 @@
 .#*
 *.uvgui.*
 *.uvopt
+*.sct
+*.uvguix.*
+*.uvoptx
